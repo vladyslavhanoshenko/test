@@ -1,0 +1,11 @@
+/Users/vlad/Desktop/Test/Lol/bin/Debug/netcoreapp2.2/Lol.deps.json
+/Users/vlad/Desktop/Test/Lol/bin/Debug/netcoreapp2.2/Lol.runtimeconfig.json
+/Users/vlad/Desktop/Test/Lol/bin/Debug/netcoreapp2.2/Lol.runtimeconfig.dev.json
+/Users/vlad/Desktop/Test/Lol/bin/Debug/netcoreapp2.2/Lol.dll
+/Users/vlad/Desktop/Test/Lol/bin/Debug/netcoreapp2.2/Lol.pdb
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.csprojAssemblyReference.cache
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.csproj.CoreCompileInputs.cache
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.AssemblyInfoInputs.cache
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.AssemblyInfo.cs
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.dll
+/Users/vlad/Desktop/Test/Lol/obj/Debug/netcoreapp2.2/Lol.pdb
